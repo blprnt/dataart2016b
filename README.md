@@ -1,4 +1,4 @@
-# ITP Data Art - Spring 2016
+# ITP Data Art - Fall 2016
 
 * Instructor: Jer Thorp
 * Instructor e-mail: blprnt@blprnt.com
@@ -62,28 +62,30 @@ Since we’re not using a percentage-based grading system, let me put it another
 
 (ii) Brian K. Vaughan, Marcos Martin and Muntsa Vicente - The Private Eye - http://panelsyndicate.com/comics/tpeye
 
+(iii) Ursula Franklin - Massey Lectures - http://www.cbc.ca/radio/ideas/the-1989-cbc-massey-lectures-the-real-world-of-technology-1.2946845
+
 ##Syllabus
 
 Data & Aesthetic
 
-January 25th - The lay of the land.
-February 1st - Discussions on readings & technical workshop
-February 8th - Guest Speaker (TBA) & Project presentations
+September 12th - The lay of the land.
+September 19th - Discussions on readings & technical workshop
+September 26th - Guest Speaker (TBA) & Project presentations
 
 Text, Archives & Memory Stores
 
-February 22nd - Survey, technical workshop (RiTa)
-February 29th - Discussions on readings, other resources
-March 7th - Guest Speaker (TBA) & Project presentations
+October 3rd - Survey, technical workshop (RiTa)
+October 17th - Discussions on readings, other resources
+October 24th - Guest Speaker (TBA) & Project presentations
 
 Data & Publics
 
-March 14th - Survey, technical workshop (OpenPaths, Leaflet.js)
-March 21st - Discussions on readings, other resources
-March 28th - Guest Speaker (TBA) & Project presentations
+October 31st - Survey, technical workshop (OpenPaths, Leaflet.js)
+November 7th - Discussions on readings, other resources
+November 14th - Guest Speaker (TBA) & Project presentations
 
 Ethics, Humans & Responsibility
 
-April 4th - Survey, technical workshop (TBA)
-April 11th - Discussions on readings, other resources
-April 25th - Guest Speaker (TBA) & Project presentations
+November 21st - Survey, technical workshop (TBA)
+November 28th - Discussions on readings, other resources
+December 5th - Guest Speaker (TBA) & Project presentations
