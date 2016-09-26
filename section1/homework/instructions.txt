@@ -1,0 +1,8 @@
+Please save your homework in this folder with your name as the directory name. ie. homework/JerThorp
+
+DO NOT include any data files that are over 50MB
+DO NOT include any private data such as API keys or any personally identifiable data
+
+Thanks!
+
+
