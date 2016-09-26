@@ -1,0 +1,1009 @@
+[{
+   "LostProperty": {
+      "responsecode": "0",
+      "message": "",
+      "NumberOfLostArticles": "230881",
+      "NumberOfItemsclaimed": "75942",
+      "Category": [
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Wall and Window Covering",
+                  "_count": "85"
+               },
+               {
+                  "_SubCategory": "Ornaments",
+                  "_count": "52"
+               },
+               {
+                  "_SubCategory": "Appliances",
+                  "_count": "119"
+               },
+               {
+                  "_SubCategory": "Linen",
+                  "_count": "1108"
+               },
+               {
+                  "_SubCategory": "Floor Covering",
+                  "_count": "34"
+               },
+               {
+                  "_SubCategory": "All Other Furnishings",
+                  "_count": "580"
+               },
+               {
+                  "_SubCategory": "Dishware",
+                  "_count": "653"
+               }
+            ],
+            "_Category": "Home Furnishings"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Bats",
+                  "_count": "14"
+               },
+               {
+                  "_SubCategory": "Scooter",
+                  "_count": "75"
+               },
+               {
+                  "_SubCategory": "Golf Club",
+                  "_count": "5"
+               },
+               {
+                  "_SubCategory": "Ball",
+                  "_count": "248"
+               },
+               {
+                  "_SubCategory": "Skateboard",
+                  "_count": "55"
+               },
+               {
+                  "_SubCategory": "Binocular",
+                  "_count": "20"
+               },
+               {
+                  "_SubCategory": "Electric Motor Scooter",
+                  "_count": "1"
+               },
+               {
+                  "_SubCategory": "Protective Gear",
+                  "_count": "371"
+               },
+               {
+                  "_SubCategory": "Hockey Stick",
+                  "_count": "8"
+               },
+               {
+                  "_SubCategory": "Sports Racket",
+                  "_count": "122"
+               },
+               {
+                  "_SubCategory": "Bicycle",
+                  "_count": "181"
+               },
+               {
+                  "_SubCategory": "Skis",
+                  "_count": "3"
+               },
+               {
+                  "_SubCategory": "All Other sports equipment",
+                  "_count": "504"
+               }
+            ],
+            "_Category": "Sports Equipment"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Lunch box",
+                  "_count": "1260"
+               },
+               {
+                  "_SubCategory": "Blue print",
+                  "_count": "23"
+               },
+               {
+                  "_SubCategory": "Photo/Pictures",
+                  "_count": "996"
+               },
+               {
+                  "_SubCategory": "Baby stroller/Carrier",
+                  "_count": "135"
+               },
+               {
+                  "_SubCategory": "Portfolio",
+                  "_count": "747"
+               },
+               {
+                  "_SubCategory": "All Other Misc Items ",
+                  "_count": "27806"
+               },
+               {
+                  "_SubCategory": "Art and Crafts",
+                  "_count": "565"
+               },
+               {
+                  "_SubCategory": "Mail",
+                  "_count": "2514"
+               },
+               {
+                  "_SubCategory": "Checkbook",
+                  "_count": "899"
+               },
+               {
+                  "_SubCategory": "Tefillin/Phylacteries (Jewish)",
+                  "_count": "16"
+               },
+               {
+                  "_SubCategory": "Folder",
+                  "_count": "4579"
+               },
+               {
+                  "_SubCategory": "Envelope",
+                  "_count": "2685"
+               },
+               {
+                  "_SubCategory": "Stationary Supplies",
+                  "_count": "3895"
+               }
+            ],
+            "_Category": "Miscellaneous"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Walkie Talkie",
+                  "_count": "131"
+               },
+               {
+                  "_SubCategory": "Answering Machine",
+                  "_count": "9"
+               },
+               {
+                  "_SubCategory": "Other",
+                  "_count": "62"
+               },
+               {
+                  "_SubCategory": "Cell phone ",
+                  "_count": "41918"
+               },
+               {
+                  "_SubCategory": "Pager",
+                  "_count": "74"
+               },
+               {
+                  "_SubCategory": "Telephone Accessories",
+                  "_count": "3861"
+               }
+            ],
+            "_Category": "Cell Phone/Telephone/Communication Device"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Baby Toys",
+                  "_count": "138"
+               },
+               {
+                  "_SubCategory": "All Other Toys",
+                  "_count": "678"
+               },
+               {
+                  "_SubCategory": "Board Game",
+                  "_count": "83"
+               },
+               {
+                  "_SubCategory": "Doll",
+                  "_count": "191"
+               },
+               {
+                  "_SubCategory": "Cars/Trucks",
+                  "_count": "204"
+               },
+               {
+                  "_SubCategory": "Stuffed Animals",
+                  "_count": "292"
+               }
+            ],
+            "_Category": "Toys"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Pouch",
+                  "_count": "2863"
+               },
+               {
+                  "_SubCategory": "Wristlet",
+                  "_count": "1738"
+               },
+               {
+                  "_SubCategory": "Purse",
+                  "_count": "10688"
+               },
+               {
+                  "_SubCategory": "ID Holder",
+                  "_count": "7787"
+               },
+               {
+                  "_SubCategory": "Business Card holder",
+                  "_count": "506"
+               },
+               {
+                  "_SubCategory": "Billfold",
+                  "_count": "195"
+               },
+               {
+                  "_SubCategory": "Handbag",
+                  "_count": "581"
+               },
+               {
+                  "_SubCategory": "Lanyard",
+                  "_count": "54"
+               },
+               {
+                  "_SubCategory": "All Other Wallet / Purse",
+                  "_count": "1264"
+               },
+               {
+                  "_SubCategory": "Fanny pack",
+                  "_count": "198"
+               },
+               {
+                  "_SubCategory": "Wallet",
+                  "_count": "39906"
+               }
+            ],
+            "_Category": "Wallet/Purse"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Scarf",
+                  "_count": "2083"
+               },
+               {
+                  "_SubCategory": "All Other Accessories",
+                  "_count": "1250"
+               },
+               {
+                  "_SubCategory": "Hat",
+                  "_count": "3987"
+               },
+               {
+                  "_SubCategory": "Gloves",
+                  "_count": "3510"
+               },
+               {
+                  "_SubCategory": "Make-up",
+                  "_count": "1905"
+               },
+               {
+                  "_SubCategory": "Ties",
+                  "_count": "289"
+               },
+               {
+                  "_SubCategory": "Belt",
+                  "_count": "287"
+               },
+               {
+                  "_SubCategory": "Umbrella",
+                  "_count": "3044"
+               }
+            ],
+            "_Category": "Accessories"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Jacket",
+                  "_count": "3465"
+               },
+               {
+                  "_SubCategory": "Coat ",
+                  "_count": "575"
+               },
+               {
+                  "_SubCategory": "Nightwear",
+                  "_count": "193"
+               },
+               {
+                  "_SubCategory": "Skirt",
+                  "_count": "528"
+               },
+               {
+                  "_SubCategory": "Blouse",
+                  "_count": "904"
+               },
+               {
+                  "_SubCategory": "Sweater",
+                  "_count": "2581"
+               },
+               {
+                  "_SubCategory": "Pants/trousers/shorts",
+                  "_count": "6271"
+               },
+               {
+                  "_SubCategory": "Suit",
+                  "_count": "83"
+               },
+               {
+                  "_SubCategory": "Shirt",
+                  "_count": "4243"
+               },
+               {
+                  "_SubCategory": "Under garment",
+                  "_count": "2667"
+               },
+               {
+                  "_SubCategory": "All Other Clothing",
+                  "_count": "3893"
+               },
+               {
+                  "_SubCategory": "T-shirt",
+                  "_count": "3432"
+               },
+               {
+                  "_SubCategory": "Dress",
+                  "_count": "695"
+               },
+               {
+                  "_SubCategory": "Leather Jacket",
+                  "_count": "87"
+               }
+            ],
+            "_Category": "Clothing "
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Debit Card",
+                  "_count": "35614"
+               },
+               {
+                  "_SubCategory": "Badge",
+                  "_count": "179"
+               },
+               {
+                  "_SubCategory": "Passport",
+                  "_count": "2696"
+               },
+               {
+                  "_SubCategory": "Social Security Card",
+                  "_count": "6736"
+               },
+               {
+                  "_SubCategory": "Birth Certificate",
+                  "_count": "1120"
+               },
+               {
+                  "_SubCategory": "School ID",
+                  "_count": "15508"
+               },
+               {
+                  "_SubCategory": "Credit Card",
+                  "_count": "18939"
+               },
+               {
+                  "_SubCategory": "AAA Card",
+                  "_count": "693"
+               },
+               {
+                  "_SubCategory": "Resident Card",
+                  "_count": "955"
+               },
+               {
+                  "_SubCategory": "Employment ID",
+                  "_count": "7224"
+               },
+               {
+                  "_SubCategory": "Identification Card",
+                  "_count": "13455"
+               },
+               {
+                  "_SubCategory": "Library card",
+                  "_count": "6177"
+               },
+               {
+                  "_SubCategory": "All Other Personal Identification",
+                  "_count": "10229"
+               },
+               {
+                  "_SubCategory": "Membership card",
+                  "_count": "9756"
+               },
+               {
+                  "_SubCategory": "Military ID",
+                  "_count": "261"
+               },
+               {
+                  "_SubCategory": "Drivers License",
+                  "_count": "16904"
+               },
+               {
+                  "_SubCategory": "Registration Card",
+                  "_count": "394"
+               },
+               {
+                  "_SubCategory": "Benefit Card",
+                  "_count": "11119"
+               },
+               {
+                  "_SubCategory": "Insurance Card",
+                  "_count": "14830"
+               },
+               {
+                  "_SubCategory": "Death Certificate",
+                  "_count": "22"
+               }
+            ],
+            "_Category": "Identification"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Video Games System",
+                  "_count": "424"
+               },
+               {
+                  "_SubCategory": "All Other Entertainment",
+                  "_count": "303"
+               },
+               {
+                  "_SubCategory": "VHS Tape",
+                  "_count": "116"
+               },
+               {
+                  "_SubCategory": "DVD",
+                  "_count": "1008"
+               },
+               {
+                  "_SubCategory": "Blu-Ray",
+                  "_count": "4"
+               },
+               {
+                  "_SubCategory": "Computer Games ",
+                  "_count": "362"
+               },
+               {
+                  "_SubCategory": "Compact Disc",
+                  "_count": "903"
+               }
+            ],
+            "_Category": "Entertainment (Music/Movies/Games)"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Shoes",
+                  "_count": "2400"
+               },
+               {
+                  "_SubCategory": "Boots",
+                  "_count": "819"
+               },
+               {
+                  "_SubCategory": "Slippers",
+                  "_count": "578"
+               },
+               {
+                  "_SubCategory": "Sandals",
+                  "_count": "479"
+               },
+               {
+                  "_SubCategory": "Galoshes",
+                  "_count": "27"
+               },
+               {
+                  "_SubCategory": "All Other Footwear",
+                  "_count": "147"
+               },
+               {
+                  "_SubCategory": "Sneakers",
+                  "_count": "2389"
+               }
+            ],
+            "_Category": "Footwear"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Insulin Pump",
+                  "_count": "58"
+               },
+               {
+                  "_SubCategory": "Medication",
+                  "_count": "5067"
+               },
+               {
+                  "_SubCategory": "X - Rays",
+                  "_count": "101"
+               },
+               {
+                  "_SubCategory": "Other",
+                  "_count": "437"
+               },
+               {
+                  "_SubCategory": "Walker",
+                  "_count": "10"
+               },
+               {
+                  "_SubCategory": "Wheel Chair",
+                  "_count": "14"
+               },
+               {
+                  "_SubCategory": "Blood Pressure Meter",
+                  "_count": "56"
+               },
+               {
+                  "_SubCategory": "All Other Medical Equipment / Supplies",
+                  "_count": "806"
+               },
+               {
+                  "_SubCategory": "Electric wheelchair/scooter",
+                  "_count": "3"
+               },
+               {
+                  "_SubCategory": "Cane",
+                  "_count": "531"
+               },
+               {
+                  "_SubCategory": "Diabetic Testing Equipment",
+                  "_count": "107"
+               },
+               {
+                  "_SubCategory": "Glucose Meter",
+                  "_count": "286"
+               }
+            ],
+            "_Category": "Medical Equipment & Medication"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Tools",
+                  "_count": "1063"
+               },
+               {
+                  "_SubCategory": "Tool Box",
+                  "_count": "56"
+               },
+               {
+                  "_SubCategory": "Tool Belt",
+                  "_count": "16"
+               }
+            ],
+            "_Category": "Tools"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Car",
+                  "_count": "1995"
+               },
+               {
+                  "_SubCategory": "House",
+                  "_count": "10328"
+               },
+               {
+                  "_SubCategory": "Electronic key card",
+                  "_count": "445"
+               },
+               {
+                  "_SubCategory": "All Other keys",
+                  "_count": "3609"
+               }
+            ],
+            "_Category": "Keys"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Gift Card ",
+                  "_count": "2073"
+               },
+               {
+                  "_SubCategory": "Payroll check",
+                  "_count": "922"
+               },
+               {
+                  "_SubCategory": "Money Order",
+                  "_count": "180"
+               },
+               {
+                  "_SubCategory": "Personal Check",
+                  "_count": "1420"
+               },
+               {
+                  "_SubCategory": "Travelers Checks ",
+                  "_count": "21"
+               },
+               {
+                  "_SubCategory": "Other Currency",
+                  "_count": "158"
+               },
+               {
+                  "_SubCategory": "Cash",
+                  "_count": "36249"
+               },
+               {
+                  "_SubCategory": "Foreign Currency",
+                  "_count": "2171"
+               }
+            ],
+            "_Category": "Currency"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Flute",
+                  "_count": "95"
+               },
+               {
+                  "_SubCategory": "Musical instrument accessories",
+                  "_count": "58"
+               },
+               {
+                  "_SubCategory": "Clarinet",
+                  "_count": "84"
+               },
+               {
+                  "_SubCategory": "All Other Instruments",
+                  "_count": "118"
+               },
+               {
+                  "_SubCategory": "Guitar",
+                  "_count": "48"
+               },
+               {
+                  "_SubCategory": "Violin",
+                  "_count": "88"
+               },
+               {
+                  "_SubCategory": "Harmonica",
+                  "_count": "8"
+               },
+               {
+                  "_SubCategory": "Saxophone",
+                  "_count": "34"
+               },
+               {
+                  "_SubCategory": "Trumpet",
+                  "_count": "77"
+               }
+            ],
+            "_Category": "Musical Instrument"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Fashion (Costume)",
+                  "_count": "2787"
+               },
+               {
+                  "_SubCategory": "Cuff Links",
+                  "_count": "5"
+               },
+               {
+                  "_SubCategory": "Necklace",
+                  "_count": "449"
+               },
+               {
+                  "_SubCategory": "Watch",
+                  "_count": "1739"
+               },
+               {
+                  "_SubCategory": "Ring",
+                  "_count": "1130"
+               },
+               {
+                  "_SubCategory": "Bracelet",
+                  "_count": "752"
+               },
+               {
+                  "_SubCategory": "Earrings",
+                  "_count": "401"
+               },
+               {
+                  "_SubCategory": "All other Jewelry",
+                  "_count": "167"
+               },
+               {
+                  "_SubCategory": "Tie Clips",
+                  "_count": "2"
+               }
+            ],
+            "_Category": "Jewelry"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Digital Camera",
+                  "_count": "892"
+               },
+               {
+                  "_SubCategory": "USB Drive",
+                  "_count": "583"
+               },
+               {
+                  "_SubCategory": "Portable radio",
+                  "_count": "316"
+               },
+               {
+                  "_SubCategory": "Computer ",
+                  "_count": "1055"
+               },
+               {
+                  "_SubCategory": "GPS Navigation System",
+                  "_count": "42"
+               },
+               {
+                  "_SubCategory": "CD Player",
+                  "_count": "146"
+               },
+               {
+                  "_SubCategory": "Electronic accessories",
+                  "_count": "796"
+               },
+               {
+                  "_SubCategory": "All other Electronics",
+                  "_count": "1919"
+               },
+               {
+                  "_SubCategory": "Digital media/MP3/4 Player",
+                  "_count": "2097"
+               },
+               {
+                  "_SubCategory": "Record Player",
+                  "_count": "32"
+               },
+               {
+                  "_SubCategory": "Photo/Video Equipment",
+                  "_count": "330"
+               },
+               {
+                  "_SubCategory": "Television set",
+                  "_count": "9"
+               },
+               {
+                  "_SubCategory": "Body Activity Tracker",
+                  "_count": "54"
+               },
+               {
+                  "_SubCategory": "Earphones Speakers",
+                  "_count": "724"
+               },
+               {
+                  "_SubCategory": "Computer External Hard Drive",
+                  "_count": "43"
+               },
+               {
+                  "_SubCategory": "Camera Accessories",
+                  "_count": "282"
+               },
+               {
+                  "_SubCategory": "Clock",
+                  "_count": "19"
+               },
+               {
+                  "_SubCategory": "Walkman",
+                  "_count": "83"
+               },
+               {
+                  "_SubCategory": "DVD Player",
+                  "_count": "125"
+               },
+               {
+                  "_SubCategory": "Camera",
+                  "_count": "277"
+               },
+               {
+                  "_SubCategory": "Calculator",
+                  "_count": "475"
+               },
+               {
+                  "_SubCategory": "Air conditioner",
+                  "_count": "2"
+               },
+               {
+                  "_SubCategory": "Translator",
+                  "_count": "30"
+               },
+               {
+                  "_SubCategory": "Computer Accessories",
+                  "_count": "394"
+               },
+               {
+                  "_SubCategory": "PDA",
+                  "_count": "18"
+               },
+               {
+                  "_SubCategory": "Electronic Tablet",
+                  "_count": "926"
+               },
+               {
+                  "_SubCategory": "Electronic Reading Device",
+                  "_count": "696"
+               }
+            ],
+            "_Category": "Electronics"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Suitcase",
+                  "_count": "512"
+               },
+               {
+                  "_SubCategory": "Handbag",
+                  "_count": "3611"
+               },
+               {
+                  "_SubCategory": "Shoulder bag",
+                  "_count": "3580"
+               },
+               {
+                  "_SubCategory": "Briefcase",
+                  "_count": "643"
+               },
+               {
+                  "_SubCategory": "Shopping bag",
+                  "_count": "16335"
+               },
+               {
+                  "_SubCategory": "Tote bag",
+                  "_count": "6461"
+               },
+               {
+                  "_SubCategory": "Garment/suit bag",
+                  "_count": "155"
+               },
+               {
+                  "_SubCategory": "Duffle bag",
+                  "_count": "1277"
+               },
+               {
+                  "_SubCategory": "Backpack",
+                  "_count": "13540"
+               },
+               {
+                  "_SubCategory": "All other baggage",
+                  "_count": "6192"
+               },
+               {
+                  "_SubCategory": "Messenger bag",
+                  "_count": "247"
+               }
+            ],
+            "_Category": "Carry Bag / Luggage"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Eyeglass case without glasses",
+                  "_count": "400"
+               },
+               {
+                  "_SubCategory": "Eye glasses",
+                  "_count": "8213"
+               },
+               {
+                  "_SubCategory": "Other",
+                  "_count": "261"
+               },
+               {
+                  "_SubCategory": "Sunglasses",
+                  "_count": "2949"
+               }
+            ],
+            "_Category": "Eye Wear"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Transit Check",
+                  "_count": "183"
+               },
+               {
+                  "_SubCategory": "All Other Tickets",
+                  "_count": "488"
+               },
+               {
+                  "_SubCategory": "NJ Transit",
+                  "_count": "356"
+               },
+               {
+                  "_SubCategory": "Metro North Tickets",
+                  "_count": "203"
+               },
+               {
+                  "_SubCategory": "Lottery Tickets",
+                  "_count": "625"
+               },
+               {
+                  "_SubCategory": "Entertainment Tickets",
+                  "_count": "116"
+               },
+               {
+                  "_SubCategory": "MTA Metrocard",
+                  "_count": "43323"
+               },
+               {
+                  "_SubCategory": "LIRR Tickets",
+                  "_count": "325"
+               },
+               {
+                  "_SubCategory": "Airline",
+                  "_count": "97"
+               }
+            ],
+            "_Category": "Tickets"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Photo album",
+                  "_count": "35"
+               },
+               {
+                  "_SubCategory": "Paperback",
+                  "_count": "5988"
+               },
+               {
+                  "_SubCategory": "Address book",
+                  "_count": "718"
+               },
+               {
+                  "_SubCategory": "Soft cover",
+                  "_count": "3209"
+               },
+               {
+                  "_SubCategory": "Other",
+                  "_count": "750"
+               },
+               {
+                  "_SubCategory": "Diary",
+                  "_count": "543"
+               },
+               {
+                  "_SubCategory": "Hard Cover",
+                  "_count": "3257"
+               }
+            ],
+            "_Category": "Book"
+         },
+         {
+            "SubCategory": [
+               {
+                  "_SubCategory": "Vest",
+                  "_count": "12"
+               },
+               {
+                  "_SubCategory": "Badge",
+                  "_count": "46"
+               },
+               {
+                  "_SubCategory": "Radio",
+                  "_count": "8"
+               },
+               {
+                  "_SubCategory": "Pass or Badge holder",
+                  "_count": "14"
+               },
+               {
+                  "_SubCategory": "All other NYCT Equiment",
+                  "_count": "46"
+               },
+               {
+                  "_SubCategory": "Epic pass",
+                  "_count": "340"
+               }
+            ],
+            "_Category": "NYCT Equipment"
+         }
+      ]
+   }
+}]
