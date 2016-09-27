@@ -1,0 +1,32 @@
+JSONArray json;
+
+void setup(){
+json = loadJSONArray("lostobjects.json");
+
+JSONObject array = json.getJSONObject(0);
+//println(array.size());
+
+JSONObject a = array.getJSONObject("LostProperty");
+//println(a.size());
+
+JSONArray lostprop = a.getJSONArray("Category");
+println(lostprop.size());
+
+JSONObject cat = lostprop.getJSONObject(0);
+//println(cat.size());
+
+JSONArray subcat = cat.getJSONArray("SubCategory");
+//println(subcat.size());
+
+for (int j = 0 ; j < lostprop.size(); j++) {
+   print(lostprop.size());
+
+  for (int i = 0 ; i < subcat.size(); i++) {
+  JSONObject count = subcat.getJSONObject(i);
+  String number = count.getString("_count");
+  //println(number);
+
+  }
+}
+
+}
