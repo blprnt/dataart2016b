@@ -1,0 +1,100 @@
+[
+	{
+		"region": "USA",
+		"total" : "1104",
+		"fatal" : "35",
+		"year" : "2012"
+	},
+	{
+		"region": "Australia",
+		"total" : "665",
+		"fatal" : "234",
+		"year" : "2016"
+	},
+	{
+		"region": "Africa",
+		"total" : "346",
+		"fatal" : "94",
+		"year" : "2015"
+	},
+
+	{
+		"region": "Asia",
+		"total" : "129",
+		"fatal" : "48",
+		"year" : "2000"
+	},
+
+	{
+		"region": "Hawaii",
+		"total" : "137",
+		"fatal" : "10",
+		"year" : "2015"
+	},
+
+	{
+		"region": "Oceania",
+		"total" : "126",
+		"fatal" : "49",
+		"year" : "2016"
+	},
+
+	{
+		"region": "South America",
+		"total" : "117",
+		"fatal" : "26",
+		"year" : "2015"
+	},
+
+	{
+		"region": "Bahamas",
+		"total" : "70",
+		"fatal" : "16",
+		"year" : "2013"
+	},
+
+	{
+		"region": "Middle America",
+		"total" : "56",
+		"fatal" : "27",
+		"year" : "2011"
+	},
+
+	{
+		"region": "Europe",
+		"total" : "52",
+		"fatal" : "27",
+		"year" : "1989"
+	},
+
+	{
+		"region": "New Zeland",
+		"total" : "49",
+		"fatal" : "9",
+		"year" : "2013"
+	},
+
+	{
+		"region": "Reunion Island",
+		"total" : "38",
+		"fatal" : "18",
+		"year" : "2015"
+	},
+
+	{
+		"region": "Open Ocean",
+		"total" : "21",
+		"fatal" : "7",
+		"year" : "1995"
+	},
+
+
+	{
+		"region": "Total attacks",
+		"total" : "2899",
+		"fatal" : "548",
+		"year" : "2016"
+	},
+
+
+]
