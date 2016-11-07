@@ -1,0 +1,3315 @@
+{
+    "order": 1,
+    "returned": 97,
+    "results": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        -64.77891083579244,
+                        34.98518021160741
+                    ]
+                },
+                "type": "Feature",
+                "id": "55a372d4337e386932dff46e",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "t_created": 1436775124.962512,
+                    "DateTime": "2014-07-11T13:20:03+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Class": "Insecta",
+                        "Species": "Appias hippo",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1405077603,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        19.12066532926381,
+                        -16.045645828708818
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55a2c19a337e386944cf4abe",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 2,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-07-12T15:37:20+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1436708240,
+                    "Images": [],
+                    "t_created": 1436729754.359958,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        19.032707525925908,
+                        -16.554306140740742
+                    ]
+                },
+                "type": "Feature",
+                "id": "55a80f3c337e386932dff532",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "t_utc": 1437045478,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-07-16T13:17:58+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1437077308.907184,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        19.102125728819825,
+                        -16.658321831298558
+                    ]
+                },
+                "type": "Feature",
+                "id": "55abeb53337e38693e344b20",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-07-17T13:08:52+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1437131332,
+                    "Images": [],
+                    "t_created": 1437330259.853816,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        19.103701799851997,
+                        -16.659571008139125
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55abeb6b337e386938bd0f29",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 5,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-07-17T13:19:47+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1437131987,
+                    "Images": [],
+                    "t_created": 1437330283.910722,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        19.098987472317702,
+                        -16.662983625429554
+                    ]
+                },
+                "type": "Feature",
+                "id": "55abed3c337e38693e344b2e",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 2,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-07-17T14:22:36+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1437135756,
+                    "Images": [],
+                    "t_created": 1437330748.400579,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        19.168763485016633,
+                        -16.793990567887533
+                    ]
+                },
+                "type": "Feature",
+                "id": "55abee0a337e38693e344b34",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1437217442,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 6,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-07-18T13:04:02+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1437330954.87799,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        19.414078671846113,
+                        -16.981181831298535
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55ad545f337e38693e344b48",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-07-20T11:22:59+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1437384179,
+                    "Images": [],
+                    "t_created": 1437422687.45539,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        19.789138065774424,
+                        -17.276890802443194
+                    ]
+                },
+                "type": "Feature",
+                "id": "55b13a49337e3802694a372e",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "t_created": 1437678153.552256,
+                    "DateTime": "2015-07-22T10:43:21+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Class": "Insecta",
+                        "Species": "Appias hippo",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1437554601,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        19.807187852654906,
+                        -17.292745424904325
+                    ]
+                },
+                "type": "Feature",
+                "id": "55affef9337e380263b2400d",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "t_utc": 1437569373,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "t_created": 1437597433.295658,
+                    "DateTime": "2015-07-22T14:49:33+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Species": "Appias hippo",
+                        "Family": "Pieridae"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        19.809539994527704,
+                        -17.2948115058844
+                    ]
+                },
+                "type": "Feature",
+                "id": "55b1d63f337e385135905576",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1437571298,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "t_created": 1437718079.207402,
+                    "DateTime": "2015-07-22T15:21:38+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        20.592032366277977,
+                        -17.878974899130128
+                    ]
+                },
+                "type": "Feature",
+                "id": "55be5b37337e385135905603",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "t_utc": 1438084388,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 2,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-07-28T13:53:08+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1438538551.662415,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        20.592941999999965,
+                        -17.88746107777781
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55be5b3f337e385141a9bed0",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1438085359,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 2,
+                    "Behavior": "Perching",
+                    "t_created": 1438538559.930422,
+                    "DateTime": "2015-07-28T14:09:19+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        20.675925977777744,
+                        -17.908378866666666
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55be5bd4337e385141a9bed4",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1438163514,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "t_created": 1438538708.190634,
+                    "DateTime": "2015-07-29T11:51:54+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        20.887641352201285,
+                        -17.998717735849056
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55c27cf5337e38089985dea5",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 45,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-03T12:11:40+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1438596700,
+                    "Images": [],
+                    "t_created": 1438809333.7397,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        20.91194514814817,
+                        -17.991502407407435
+                    ]
+                },
+                "type": "Feature",
+                "id": "55cc3d98337e3876801f6109",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "t_created": 1439448472.601756,
+                    "DateTime": "2015-08-03T12:56:41+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1438599401,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        20.932572961524198,
+                        -17.978694415464265
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55cba3d6337e38089985df97",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 35,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-03T14:27:08+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1438604828,
+                    "Images": [],
+                    "t_created": 1439409110.711793,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        21.047321264367845,
+                        -17.952101436781636
+                    ]
+                },
+                "type": "Feature",
+                "id": "55c26da4337e3808ab153315",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-04T12:03:01+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Species": "Appias hippo",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1438682581,
+                    "Images": [],
+                    "t_created": 1438805412.488029,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        21.067673289920727,
+                        -17.946892248018138
+                    ]
+                },
+                "type": "Feature",
+                "id": "55c26dd2337e38089985de9b",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-04T12:24:22+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Species": "Appias hippo",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1438683862,
+                    "Images": [],
+                    "t_created": 1438805458.25377,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        21.124747103347925,
+                        -17.936655993449754
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55cbabb2337e38089985dfcd",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-04T13:27:18+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1438687638,
+                    "Images": [],
+                    "t_created": 1439411122.818682,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        21.27396311111111,
+                        -17.966235948148178
+                    ]
+                },
+                "type": "Feature",
+                "id": "55c675a8337e38089985df13",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 6,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-05T12:14:35+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1438769675,
+                    "Images": [],
+                    "t_created": 1439069608.114022,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        21.382597531978945,
+                        -18.01164984574865
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55c676ca337e3808a5584a32",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1438858405,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-06T12:53:25+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1439069898.733243,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        21.398291672216086,
+                        -18.011166651868262
+                    ]
+                },
+                "type": "Feature",
+                "id": "55c676f1337e38089985df1b",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 9,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-06T13:16:19+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1438859779,
+                    "Images": [],
+                    "t_created": 1439069937.511802,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        21.473075823182,
+                        -18.076593612033985
+                    ]
+                },
+                "type": "Feature",
+                "id": "55c90985337e38089985df80",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-07T09:06:52+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1438931212,
+                    "Images": [],
+                    "t_created": 1439238533.448975,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        21.500732210636073,
+                        -18.08474975495308
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55c9098e337e3808a5584a56",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1438933163,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 5,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-07T09:39:23+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1439238542.217014,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        21.577695583058283,
+                        -18.122394053905413
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55cbac49337e3808a5584ad9",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1438940706,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 3,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-07T11:45:06+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1439411273.47339,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        21.590031487889306,
+                        -18.107076728181482
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55cba667337e3808a5584aa9",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1438943166,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 2,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-07T12:26:06+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1439409767.472739,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        21.60119185534593,
+                        -18.10369966703661
+                    ]
+                },
+                "type": "Feature",
+                "id": "55cba673337e3876801ed017",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 6,
+                    "Behavior": "Perching",
+                    "t_created": 1439409779.280856,
+                    "DateTime": "2015-08-07T12:39:29+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1438943969,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        21.618540521178616,
+                        -18.10240485635358
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55cba68c337e3808ab1533b8",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1438945046,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 8,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-07T12:57:26+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1439409804.581199,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        21.66299911111111,
+                        -18.10788994444448
+                    ]
+                },
+                "type": "Feature",
+                "id": "55cc4240337e38089985dfe1",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 17,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-07T13:47:01+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1438948021,
+                    "Images": [],
+                    "t_created": 1439449664.584761,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        21.676007096296264,
+                        -18.12226486666667
+                    ]
+                },
+                "type": "Feature",
+                "id": "55cba71b337e38089985dfa7",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 10,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-08T12:47:11+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1439030831,
+                    "Images": [],
+                    "t_created": 1439409947.297877,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        21.711769531428573,
+                        -18.15435562476192
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55c90a94337e3808a5584a58",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1439036039,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 35,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-08T14:13:59+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1439238804.892096,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        21.723238907407406,
+                        -18.166685527777744
+                    ]
+                },
+                "type": "Feature",
+                "id": "55cba7a0337e3876801f3cba",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 15,
+                    "Behavior": "Perching",
+                    "t_created": 1439410080.795475,
+                    "DateTime": "2015-08-09T11:40:01+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1439113201,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        21.72426351851852,
+                        -18.168444461111143
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55cba7a7337e3808ab1533bf",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1439114680,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 35,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-09T12:04:40+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1439410087.345177,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        21.74419663898114,
+                        -18.18328179401993
+                    ]
+                },
+                "type": "Feature",
+                "id": "55ccd5c8337e3876801f61b1",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 20,
+                    "Behavior": "Perching",
+                    "t_created": 1439487432.242679,
+                    "DateTime": "2015-08-09T12:47:37+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1439117257,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        21.75077886597938,
+                        -18.191544931271444
+                    ]
+                },
+                "type": "Feature",
+                "id": "55cba90d337e3876801f60c9",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 15,
+                    "Behavior": "Perching",
+                    "t_created": 1439410445.223447,
+                    "DateTime": "2015-08-09T13:06:29+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1439118389,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        21.752223459335625,
+                        -18.19381982245128
+                    ]
+                },
+                "type": "Feature",
+                "id": "55ccd5e8337e38089985e015",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-09T13:10:07+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1439118607,
+                    "Images": [],
+                    "t_created": 1439487464.261476,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        21.756374358120617,
+                        -18.20152783388824
+                    ]
+                },
+                "type": "Feature",
+                "id": "55cba165337e3876801eb42d",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 3,
+                    "Behavior": "Perching",
+                    "t_created": 1439408485.722484,
+                    "DateTime": "2015-08-09T13:23:51+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1439119431,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        21.757201276359623,
+                        -18.204005003699557
+                    ]
+                },
+                "type": "Feature",
+                "id": "55cba956337e3876801f60cb",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 4,
+                    "Behavior": "Perching",
+                    "t_created": 1439410518.62535,
+                    "DateTime": "2015-08-09T13:29:14+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1439119754,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        21.757237118017045,
+                        -18.204112373288904
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55cba95b337e3808a5584ac0",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1439119768,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 3,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-09T13:29:28+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1439410523.678828,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        21.760479772292406,
+                        -18.215601649445116
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55cba960337e3808ab1533cf",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1439124770,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 10,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-09T14:52:50+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1439410528.697399,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        21.761734414814793,
+                        -18.23208324444448
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55cba97c337e3808ab1533d0",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1439126059,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 3,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-09T15:14:19+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1439410556.624267,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        21.77482252592592,
+                        -18.243699492592587
+                    ]
+                },
+                "type": "Feature",
+                "id": "55c7be33337e381cbc1c72a7",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1439127921,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 3,
+                    "Behavior": "Perching",
+                    "t_created": 1439153715.848358,
+                    "DateTime": "2015-08-09T15:45:21+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        21.785297434135146,
+                        -18.256078568155765
+                    ]
+                },
+                "type": "Feature",
+                "id": "55cbaac1337e38089985dfc6",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 4,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-10T10:01:02+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1439193662,
+                    "Images": [],
+                    "t_created": 1439410881.486449,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        21.77992837782722,
+                        -18.270183720800922
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55cbab62337e3808ab1533e5",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1439194801,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 3,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-10T10:20:01+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1439411042.990799,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        21.811357099519036,
+                        -18.28784782463929
+                    ]
+                },
+                "type": "Feature",
+                "id": "55ccd82f337e3876801f61b9",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 9,
+                    "Behavior": "Perching",
+                    "t_created": 1439488047.74238,
+                    "DateTime": "2015-08-10T14:41:41+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1439210501,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        21.81147594524601,
+                        -18.288006958934517
+                    ]
+                },
+                "type": "Feature",
+                "id": "55ccd830337e38089985e01d",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 3,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-10T14:41:53+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1439210513,
+                    "Images": [],
+                    "t_created": 1439488048.990802,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        21.828864777777806,
+                        -18.306184122410546
+                    ]
+                },
+                "type": "Feature",
+                "id": "55cc43b0337e3876801f6122",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 5,
+                    "Behavior": "Perching",
+                    "t_created": 1439450032.97184,
+                    "DateTime": "2015-08-10T15:32:31+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1439213551,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        21.83111223579495,
+                        -18.311003570238757
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55cc4400337e3808ab153402",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1439213966,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 2,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-10T15:39:26+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1439450112.989621,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        22.109388874074096,
+                        -18.590634381481493
+                    ]
+                },
+                "type": "Feature",
+                "id": "55ccf15c337e38089985e03f",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "t_created": 1439494492.342029,
+                    "DateTime": "2015-08-13T13:15:50+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1439464550,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        22.480450870370362,
+                        -18.95668582222219
+                    ]
+                },
+                "type": "Feature",
+                "id": "55d77cb1337e385751f4b592",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "t_utc": 1439980319,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-19T12:31:59+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1440185521.124161,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        22.53559448165216,
+                        -19.076479524705974
+                    ]
+                },
+                "type": "Feature",
+                "id": "55db6e4d337e38535ac71831",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1440155601,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-21T13:13:21+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1440443981.981423,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        22.7325654858412,
+                        -19.19915583009437
+                    ]
+                },
+                "type": "Feature",
+                "id": "55e0d60d337e38535ac71923",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1440497432,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 15,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-25T12:10:32+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1440798221.203183,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        22.732728728484176,
+                        -19.199364741810086
+                    ]
+                },
+                "type": "Feature",
+                "id": "55e0d612337e385751fa63cf",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "t_utc": 1440497537,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 5,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-25T12:12:17+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1440798226.39055,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        22.73384810660744,
+                        -19.200797279289294
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55e0d61a337e384509be7357",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 2,
+                    "Behavior": "Perching",
+                    "t_created": 1440798234.587576,
+                    "DateTime": "2015-08-25T12:24:17+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1440498257,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        22.7397901296296,
+                        -19.20279221481479
+                    ]
+                },
+                "type": "Feature",
+                "id": "55df5933337e38535ac71896",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1440503504,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-25T13:51:44+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1440700723.894836,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        22.747059045504983,
+                        -19.209506230114673
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55e4a835337e384509be7401",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 7,
+                    "Behavior": "Perching",
+                    "t_created": 1441048629.272974,
+                    "DateTime": "2015-08-25T14:54:42+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1440507282,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        22.763879402930435,
+                        -19.22356918681322
+                    ]
+                },
+                "type": "Feature",
+                "id": "55e69032337e38535ac71a41",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1440665431,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-27T10:50:31+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1441173554.890078,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        22.77285013017966,
+                        -19.231087328566172
+                    ]
+                },
+                "type": "Feature",
+                "id": "55e7eeeb337e38535ac71a7e",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1440668329,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 30,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-27T11:38:49+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1441263339.463198,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        22.77556525269418,
+                        -19.237132296544
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55eb3a73337e384509be74e7",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "t_created": 1441479283.135498,
+                    "DateTime": "2015-08-27T12:14:22+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1440670462,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        22.78182567186341,
+                        -19.252790059391227
+                    ]
+                },
+                "type": "Feature",
+                "id": "55df6e69337e384529038157",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1440676589,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-27T13:56:29+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1440706153.886255,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        22.782833214550838,
+                        -19.253944832962112
+                    ]
+                },
+                "type": "Feature",
+                "id": "55eb455a337e38575100ec45",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "t_utc": 1440676885,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 2,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-27T14:01:25+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1441482074.662663,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        22.793074537346687,
+                        -19.260362045707897
+                    ]
+                },
+                "type": "Feature",
+                "id": "55eb4697337e384529038385",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "t_created": 1441482391.575494,
+                    "DateTime": "2015-08-27T14:53:05+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Class": "Insecta",
+                        "Species": "Appias hippo",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1440679985,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        22.825720626161313,
+                        -19.268997075436637
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55e1e721337e384509be7376",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 15,
+                    "Behavior": "Perching",
+                    "t_created": 1440868129.405364,
+                    "DateTime": "2015-08-27T17:03:35+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1440687815,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        22.86132817736668,
+                        -19.311089711643092
+                    ]
+                },
+                "type": "Feature",
+                "id": "55e29e73337e385751fb1129",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "t_utc": 1440845430,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 24,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-29T12:50:30+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1440915059.915982,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        22.86034091009987,
+                        -19.330177130965573
+                    ]
+                },
+                "type": "Feature",
+                "id": "55e4a739337e385751fd1ebd",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "t_utc": 1440850556,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-29T14:15:56+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1441048377.431762,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        22.863941755555555,
+                        -19.33370191111111
+                    ]
+                },
+                "type": "Feature",
+                "id": "55e4a666337e384529038254",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "t_created": 1441048166.520432,
+                    "DateTime": "2015-08-29T14:25:38+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Class": "Insecta",
+                        "Species": "Appias hippo",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1440851138,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        22.884905680345604,
+                        -19.338594694024444
+                    ]
+                },
+                "type": "Feature",
+                "id": "55e602f9337e385751fe0e91",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "t_utc": 1440856528,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-29T15:55:28+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1441137401.642447,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        22.893076452090256,
+                        -19.339765523492407
+                    ]
+                },
+                "type": "Feature",
+                "id": "55e68be6337e38452903829e",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "t_created": 1441172454.686109,
+                    "DateTime": "2015-08-30T10:16:29+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Class": "Insecta",
+                        "Species": "Appias hippo",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1440922589,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        22.89543160370372,
+                        -19.355605596296286
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55e68dba337e384509be7459",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 8,
+                    "Behavior": "Perching",
+                    "t_created": 1441172922.62716,
+                    "DateTime": "2015-08-30T11:37:00+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1440927420,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        22.976834895428482,
+                        -19.476106667592077
+                    ]
+                },
+                "type": "Feature",
+                "id": "55ec8e4f337e3845290383f4",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 3,
+                    "Behavior": "Perching",
+                    "t_created": 1441566287.463953,
+                    "DateTime": "2015-08-31T12:57:27+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Class": "Insecta",
+                        "Species": "Appias hippo",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1441018647,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        23.019021666666667,
+                        -19.502912327044058
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55ec8f13337e384509be75ad",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "t_created": 1441566483.16686,
+                    "DateTime": "2015-08-31T14:42:10+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1441024930,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        23.02619104143541,
+                        -19.50838089530155
+                    ]
+                },
+                "type": "Feature",
+                "id": "55ec8f39337e38575100ed0e",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "t_utc": 1441025874,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 2,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-08-31T14:57:54+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1441566521.739374,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        23.026309141694387,
+                        -19.509311692563838
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55ec8f38337e384509be75b1",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 5,
+                    "Behavior": "Perching",
+                    "t_created": 1441566520.683151,
+                    "DateTime": "2015-08-31T14:59:47+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1441025987,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        23.026397978172376,
+                        -19.510011849796538
+                    ]
+                },
+                "type": "Feature",
+                "id": "55ec8f33337e38452903840d",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 6,
+                    "Behavior": "Perching",
+                    "t_created": 1441566515.34236,
+                    "DateTime": "2015-08-31T15:01:12+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Class": "Insecta",
+                        "Species": "Appias hippo",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1441026072,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        23.162897709951917,
+                        -19.561046642619313
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55ec90b8337e384509be75e4",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 6,
+                    "Behavior": "Perching",
+                    "t_created": 1441566904.339468,
+                    "DateTime": "2015-09-01T14:37:34+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1441111054,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        23.20407571171172,
+                        -19.665263282882876
+                    ]
+                },
+                "type": "Feature",
+                "id": "55eb334f337e38535ac71a87",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1441190248,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-09-02T12:37:28+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1441477455.998567,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        23.2047720167428,
+                        -19.6677331202435
+                    ]
+                },
+                "type": "Feature",
+                "id": "55ec9158337e384529038458",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 7,
+                    "Behavior": "Perching",
+                    "t_created": 1441567064.1943,
+                    "DateTime": "2015-09-02T12:44:15+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Class": "Insecta",
+                        "Species": "Appias hippo",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1441190655,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        23.228610318518495,
+                        -19.713520703703676
+                    ]
+                },
+                "type": "Feature",
+                "id": "55ec91f6337e38575100f605",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "t_utc": 1441197670,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 3,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-09-02T14:41:10+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1441567222.807384,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        23.229128051851816,
+                        -19.714585870370335
+                    ]
+                },
+                "type": "Feature",
+                "id": "55ec91f9337e38535ac71bcc",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1441197769,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 20,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-09-02T14:42:49+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1441567225.962188,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        23.24484395555553,
+                        -19.742157155555567
+                    ]
+                },
+                "type": "Feature",
+                "id": "55ec924d337e384529038474",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 3,
+                    "Behavior": "Perching",
+                    "t_created": 1441567309.514537,
+                    "DateTime": "2015-09-02T15:38:32+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Class": "Insecta",
+                        "Species": "Appias hippo",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1441201112,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        23.25135274223206,
+                        -19.760452625482625
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55ec927f337e384509be761f",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "t_created": 1441567359.22747,
+                    "DateTime": "2015-09-02T16:14:17+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1441203257,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        23.4234052016278,
+                        -20.008152611912656
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55ee6b93337e38535ac71bfd",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1441539046,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-09-06T13:30:46+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1441688467.186087,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        23.421875910099875,
+                        -20.008765902700667
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55ee6ba5337e384509be7642",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1441539161,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-09-06T13:32:41+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1441688485.54537,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        23.39577179629632,
+                        -20.036393898148123
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55ee70c3337e384509be764c",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 2,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-09-06T14:21:45+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1441542105,
+                    "Images": [],
+                    "t_created": 1441689795.647246,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        23.39200328888891,
+                        -20.038875044444424
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55ee70dc337e3845290384a9",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 2,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-09-06T14:26:44+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1441542404,
+                    "Images": [],
+                    "t_created": 1441689820.296342,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        23.405563919821844,
+                        -20.132496870824074
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55ee7b70337e38535ac71c3b",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1441619579,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-09-07T11:52:59+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1441692528.380408,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        23.542359242424272,
+                        -20.11885980733256
+                    ]
+                },
+                "type": "Feature",
+                "id": "55ef2b1c337e384509be76a6",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "t_utc": 1441635508,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 2,
+                    "Behavior": "Perching",
+                    "t_created": 1441737500.894515,
+                    "DateTime": "2015-09-07T16:18:28+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        23.59119127616965,
+                        -20.129744332787205
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55ef2d8f337e3857510278e4",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "t_utc": 1441700713,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-09-08T10:25:13+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1441738127.333015,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        23.59621014925371,
+                        -20.13247936471492
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55ef2dbf337e38535ac71c70",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "t_utc": 1441701175,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 3,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-09-08T10:32:55+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Genus": "Appias",
+                        "Phylum": "Arthropoda",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "t_created": 1441738175.537,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        24.023186324404733,
+                        -20.262304933035722
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55f1b27f337e385751041532",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "t_created": 1441903231.885236,
+                    "DateTime": "2015-09-10T14:28:15+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1441888095,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        24.49322353333334,
+                        -20.392740133333298
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55f68254337e384509be778f",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "t_utc": 1442151232,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 12,
+                    "Behavior": "Perching",
+                    "t_created": 1442218580.936715,
+                    "DateTime": "2015-09-13T15:33:52+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Class": "Insecta",
+                        "Species": "Appias hippo",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        24.493470361111115,
+                        -20.392591999999965
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55f6825a337e3845290385fd",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "t_utc": 1442151254,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 8,
+                    "Behavior": "Perching",
+                    "t_created": 1442218586.986729,
+                    "DateTime": "2015-09-13T15:34:14+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Class": "Insecta",
+                        "Species": "Appias hippo",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        24.56320211591793,
+                        -21.092168505269015
+                    ]
+                },
+                "type": "Feature",
+                "id": "55fb13bb337e38535ac71e88",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-09-17T12:47:31+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "t_utc": 1442486851,
+                    "Images": [],
+                    "t_created": 1442517947.953977,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        24.603885349417638,
+                        -21.123612343316722
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55fb14b6337e384529038743",
+                "properties": {
+                    "Expedition": "okavango_15",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "FeatureType": "sighting",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "t_created": 1442518198.771374,
+                    "DateTime": "2015-09-17T14:53:49+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Class": "Insecta",
+                        "Species": "Appias hippo",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1442494429,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        24.768810062146905,
+                        -21.195390672316403
+                    ]
+                },
+                "type": "Feature",
+                "id": "55fd671d337e3857510adced",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "CoreExpedition": true,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "EstimatedGeometry": "beacon",
+                    "DateTime": "2015-09-18T12:49:16+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Kingdom": "Animalia",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae"
+                    },
+                    "t_utc": 1442573356,
+                    "Images": [],
+                    "t_created": 1442670365.735046,
+                    "Member": "Giles"
+                }
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        24.77644116693679,
+                        -21.24941762290657
+                    ],
+                    "type": "Point"
+                },
+                "type": "Feature",
+                "id": "55fd694e337e38452903878f",
+                "properties": {
+                    "FeatureType": "sighting",
+                    "t_utc": 1442581511,
+                    "SpeciesName": "Hippo",
+                    "Expedition": "okavango_15",
+                    "Count": 1,
+                    "Behavior": "Perching",
+                    "t_created": 1442670926.403874,
+                    "DateTime": "2015-09-18T15:05:11+0200",
+                    "Taxonomy": {
+                        "Order": "Lepidoptera",
+                        "Species": "Appias hippo",
+                        "Class": "Insecta",
+                        "Phylum": "Arthropoda",
+                        "Genus": "Appias",
+                        "Family": "Pieridae",
+                        "Kingdom": "Animalia"
+                    },
+                    "CoreExpedition": true,
+                    "Images": [],
+                    "EstimatedGeometry": "beacon",
+                    "Member": "Giles"
+                }
+            }
+        ]
+    },
+    "limit": 500,
+    "resolution": "full",
+    "total": 97,
+    "filter": {
+        "Expedition": "okavango_15",
+        "SpeciesName": "Hippo",
+        "FeatureType": "sighting"
+    }
+}
