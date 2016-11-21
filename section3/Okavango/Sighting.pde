@@ -18,7 +18,7 @@ class Sighting {
  void render() {
    pushMatrix();
      translate(pos.x,pos.y,pos.z);
-     
+     rect(0,0,5,5);
    popMatrix();
  }
 }
