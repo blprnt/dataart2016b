@@ -1,0 +1,456 @@
+{
+  "response": {
+    "meta": {
+      "hits": 118247,
+      "time": 44,
+      "offset": 0
+    },
+    "docs": [
+      {
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9907E4D7153BF934A35756C0A96E9C8B63",
+        "snippet": "From remarks on Tuesday night in Raleigh, N.C., as transcribed by CQ Transcriptions. A full transcript: nytimes.com/politics.",
+        "lead_paragraph": "From remarks on Tuesday night in Raleigh, N.C., as transcribed by CQ Transcriptions. A full transcript: nytimes.com/politics.",
+        "abstract": "Excerpts from speech of Democratic presidential hopeful Barack Obama in Raleigh, NC, after winning primary",
+        "print_page": "21",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "In Their Own Words",
+          "kicker": "BARACK OBAMA"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "OBAMA, BARACK"
+          },
+          {
+            "name": "glocations",
+            "value": "RALEIGH (NC)"
+          },
+          {
+            "name": "glocations",
+            "value": "NORTH CAROLINA"
+          },
+          {
+            "name": "subject",
+            "value": "PRIMARIES AND CAUCUSES"
+          },
+          {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2008"
+          }
+        ],
+        "pub_date": "2008-05-07T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "National Desk",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Text",
+        "_id": "4fd2b32e8eb7c8105d8a4c3c",
+        "word_count": 323,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9504E7DF133CF932A15756C0A96E9C8B63",
+        "snippet": "Tuesday night in Des Moines as transcribed by The New York Times. A full transcript: nytimes.com/politics.",
+        "lead_paragraph": "Tuesday night in Des Moines as transcribed by The New York Times. A full transcript: nytimes.com/politics.",
+        "abstract": "Text of speech by Democratic presidential hopeful Sen Barack Obama in Des Moines, Iowa (S)",
+        "print_page": "25",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "In His Own Words",
+          "kicker": "BARACK OBAMA"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "OBAMA, BARACK"
+          },
+          {
+            "name": "glocations",
+            "value": "DES MOINES (IOWA)"
+          },
+          {
+            "name": "subject",
+            "value": "PRIMARIES AND CAUCUSES"
+          },
+          {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2008"
+          }
+        ],
+        "pub_date": "2008-05-21T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "National Desk",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Text",
+        "_id": "4fd265468eb7c8105d8197da",
+        "word_count": 241,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9C02E3DA163EF935A2575AC0A96E9C8B63",
+        "snippet": "Remarks by Senator Barack Obama, the Democratic presidential nominee, at an outdoor rally in Grand Junction, Colo., on Monday, as transcribed by The New York Times:",
+        "lead_paragraph": "Remarks by Senator Barack Obama, the Democratic presidential nominee, at an outdoor rally in Grand Junction, Colo., on Monday, as transcribed by The New York Times:",
+        "abstract": "Excerpt from recent Barack Obama speech on economic crisis (S)",
+        "print_page": "25",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "In Their Own Words",
+          "kicker": "BARACK OBAMA"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "OBAMA, BARACK"
+          },
+          {
+            "name": "subject",
+            "value": "UNITED STATES ECONOMY"
+          },
+          {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2008"
+          },
+          {
+            "name": "subject",
+            "value": "ELECTION ISSUES"
+          }
+        ],
+        "pub_date": "2008-09-16T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "National Desk",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Text",
+        "_id": "4fd27cca8eb7c8105d843925",
+        "word_count": 162,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=990DE2D6103CF937A15751C1A96F9C8B63",
+        "snippet": "President Obama is rebuked in a new television commercial by his erstwhile supporters in the progressive community, who say he has gone back on two important principles on health care: that he would push for a public option, or government-run health...",
+        "lead_paragraph": "President Obama is rebuked in a new television commercial by his erstwhile supporters in the progressive community, who say he has gone back on two important principles on health care: that he would push for a public option, or government-run health insurance plan, and that he saw little point in mandating that everyone buy health insurance. The commercial, from the Progressive Change Campaign Committee, includes two video clips.",
+        "abstract": "Progressive Change Campaign Committee rebukes Pres Obama in television commercial; claims he has gone back on two important principles in health care by hailing Senate legislation that has no public option and that mandates everyone buy health insurance (M)",
+        "print_page": "14",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Attacks From the Left",
+          "kicker": "PRESIDENT OBAMA"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "OBAMA, BARACK"
+          },
+          {
+            "name": "glocations",
+            "value": "UNITED STATES"
+          },
+          {
+            "name": "organizations",
+            "value": "PROGRESSIVE CHANGE CAMPAIGN COMMITTEE"
+          },
+          {
+            "name": "subject",
+            "value": "HEALTH INSURANCE AND MANAGED CARE"
+          },
+          {
+            "name": "subject",
+            "value": "ADVERTISING AND MARKETING"
+          },
+          {
+            "name": "subject",
+            "value": "TELEVISION"
+          },
+          {
+            "name": "subject",
+            "value": "MEDICINE AND HEALTH"
+          },
+          {
+            "name": "subject",
+            "value": "LAW AND LEGISLATION"
+          }
+        ],
+        "pub_date": "2009-12-24T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "National Desk",
+        "section_name": "Health; U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Katharine",
+              "middlename": "Q.",
+              "lastname": "SEELYE",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By KATHARINE Q. SEELYE"
+        },
+        "type_of_material": "News",
+        "_id": "4fd276c88eb7c8105d837e07",
+        "word_count": 266,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9500E2D9143EF935A35751C0A96E9C8B63",
+        "snippet": "In Chicago:      '' There is one thing on this February night that we do not need the final results to know. Our time has come. Our time has come. Our movement is real, and change is coming to America. ...",
+        "lead_paragraph": "In Chicago: '' There is one thing on this February night that we do not need the final results to know. Our time has come. Our time has come. Our movement is real, and change is coming to America. ...",
+        "abstract": "Excerpts from speech by Democratic presidential hopeful Sen Barack Obama as results trickle in from Super Tuesday primaries",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "In Their Own Words",
+          "kicker": "BARACK OBAMA"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "OBAMA, BARACK"
+          },
+          {
+            "name": "subject",
+            "value": "PRIMARIES AND CAUCUSES"
+          },
+          {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2008"
+          }
+        ],
+        "pub_date": "2008-02-06T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "National Desk",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "News",
+        "_id": "4fd264e08eb7c8105d818af1",
+        "word_count": 195,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9C00E7DE1338F93AA1575BC0A96E9C8B63",
+        "snippet": "Thursday night at the Democratic National Convention in Denver, as transcribed by CQ Transcriptions. A full transcript: nytimes.com/politics.      '' We meet at one of those defining moments, a moment when our nation is at war, our economy is in...",
+        "lead_paragraph": "Thursday night at the Democratic National Convention in Denver, as transcribed by CQ Transcriptions. A full transcript: nytimes.com/politics. '' We meet at one of those defining moments, a moment when our nation is at war, our economy is in turmoil, and the American promise has been threatened once more.",
+        "abstract": "Excerpt from Sen Barack Obama's speech accepting Democratic Party's presidential nomination (S)",
+        "print_page": "15",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "In His Own Words",
+          "kicker": "BARACK OBAMA"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "OBAMA, BARACK"
+          },
+          {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2008"
+          },
+          {
+            "name": "subject",
+            "value": "CONVENTIONS, NATIONAL (US)"
+          }
+        ],
+        "pub_date": "2008-08-29T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "National Desk",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Text",
+        "_id": "4fd26ba08eb7c8105d823c65",
+        "word_count": 231,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9B05E1DD153AF937A35755C0A96E9C8B63",
+        "snippet": "Tuesday night in St. Paul, as transcribed by The New York Times. A full transcript: nytimes.com/politics.",
+        "lead_paragraph": "Tuesday night in St. Paul, as transcribed by The New York Times. A full transcript: nytimes.com/politics.",
+        "abstract": null,
+        "print_page": "19",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "In Their Own Words",
+          "kicker": "BARACK OBAMA"
+        },
+        "keywords": [],
+        "pub_date": "2008-06-04T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "National Desk",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Text",
+        "_id": "4fd295ba8eb7c8105d871128",
+        "word_count": 362,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2008/01/03/us/politics/03obama.html",
+        "snippet": "Barack Obama begins most every campaign stop in Iowa by introducing his local organizers who have the task of building a network of supporters across the state.",
+        "lead_paragraph": "Barack Obama begins most every campaign stop in Iowa by introducing his local organizers who have the task of building a network of supporters across the state.",
+        "abstract": null,
+        "print_page": "19",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Betting on His Troops",
+          "content_kicker": "Barack Obama",
+          "kicker": "Barack Obama",
+          "print_headline": "Betting on His Troops"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Obama, Barack"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Presidential Election of 2008"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Iowa"
+          }
+        ],
+        "pub_date": "2008-01-03T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "National",
+        "section_name": "U.S.",
+        "subsection_name": "Politics",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Jeff",
+              "rank": 1,
+              "lastname": "ZELENY"
+            }
+          ],
+          "original": "By JEFF ZELENY"
+        },
+        "type_of_material": "News",
+        "_id": "547c660b38f0d813efccc12c",
+        "word_count": "385",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9805E6D81731F935A35750C0A96F9C8B63",
+        "snippet": "President Obama on Thursday named Vivek Kundra, a youthful, Indian-born computer expert, as the first federal chief information officer.     The White House said Mr. Kundra, 34, who for the past year and a half was the chief technology officer for...",
+        "lead_paragraph": "President Obama on Thursday named Vivek Kundra, a youthful, Indian-born computer expert, as the first federal chief information officer. The White House said Mr. Kundra, 34, who for the past year and a half was the chief technology officer for the District of Columbia, would have wide powers to oversee federal technology spending, improve information sharing between agencies, and expand public access to government information.",
+        "abstract": null,
+        "print_page": "17",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "New Chief Information Officer",
+          "kicker": "OBAMA APPOINTMENT"
+        },
+        "keywords": [],
+        "pub_date": "2009-03-06T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "National Desk",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1,
+              "firstname": "Brian",
+              "lastname": "KNOWLTON"
+            },
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 2,
+              "firstname": "Saul",
+              "lastname": "HANSELL"
+            }
+          ],
+          "original": "By BRIAN KNOWLTON and SAUL HANSELL"
+        },
+        "type_of_material": "News",
+        "_id": "4fd2b4b48eb7c8105d8a7271",
+        "word_count": 255,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9901E7DA153AF932A35754C0A96E9C8B63",
+        "snippet": "Monday  in Independence, Mo.:",
+        "lead_paragraph": "Monday in Independence, Mo.:",
+        "abstract": "Excerpts from Barack Obama's speech in Independence, Mo (M)",
+        "print_page": "18",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "In His Own Words",
+          "kicker": "BARACK OBAMA"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "OBAMA, BARACK"
+          },
+          {
+            "name": "glocations",
+            "value": "INDEPENDENCE (MO)"
+          },
+          {
+            "name": "subject",
+            "value": "PRESIDENTIAL ELECTION OF 2008"
+          },
+          {
+            "name": "subject",
+            "value": "PATRIOTISM"
+          }
+        ],
+        "pub_date": "2008-07-01T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "National Desk",
+        "section_name": "U.S.",
+        "subsection_name": null,
+        "byline": null,
+        "type_of_material": "Text",
+        "_id": "4fd2660e8eb7c8105d81a4dc",
+        "word_count": 273,
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}

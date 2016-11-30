@@ -1,0 +1,861 @@
+{
+  "response": {
+    "meta": {
+      "hits": 1317,
+      "time": 110,
+      "offset": 0
+    },
+    "docs": [
+      {
+        "web_url": "http://dealbook.nytimes.com/2010/12/16/retailer-bonobos-raises-18-5-million/",
+        "snippet": "The fashion retailer favored by young Wall Street bankers has attracted venture capital funding from Lightspeed and Accel Partners.",
+        "lead_paragraph": "Andy Dunn, the co-founder and chief executive of Bonobos, fondly recalls hanging up 400 pairs of pants on the walls of his Gramercy apartment in 2007, when the Internet retailer was just getting off the ground.",
+        "abstract": "The fashion retailer favored by young Wall Street bankers has attracted venture capital funding from Lightspeed and Accel Partners.",
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Bonobos, a Web Retailer, Raises $18.5 Million",
+          "kicker": "DealBook"
+        },
+        "keywords": [
+          {
+            "rank": "4",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "3",
+            "name": "subject",
+            "value": "E-Commerce"
+          },
+          {
+            "rank": "2",
+            "name": "persons",
+            "value": "Kardashian, Kim"
+          },
+          {
+            "rank": "5",
+            "name": "organizations",
+            "value": "Accel Partners"
+          },
+          {
+            "rank": "1",
+            "name": "type_of_material",
+            "value": "News"
+          },
+          {
+            "rank": "6",
+            "name": "organizations",
+            "value": "Bonobos.com"
+          },
+          {
+            "rank": "7",
+            "name": "organizations",
+            "value": "Groupon"
+          },
+          {
+            "rank": "8",
+            "name": "organizations",
+            "value": "Zappos"
+          }
+        ],
+        "pub_date": "2010-12-16T10:00:40Z",
+        "document_type": "blogpost",
+        "news_desk": null,
+        "section_name": "Business Day",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1
+            }
+          ],
+          "original": "By EVELYN M. RUSLI"
+        },
+        "type_of_material": "Blog",
+        "_id": "4fd39df48eb7c8105d8dff29",
+        "word_count": 607,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2012/12/09/travel/20121209-HOWTOPACK.html",
+        "snippet": "Three travelers headed for the mountains share their ski-trip packing tips.",
+        "lead_paragraph": "Three travelers headed for the mountains share their ski-trip packing tips.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2012/12/09/travel/09-packing-sf/09-packing-sf-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2012/12/09/travel/09-packing-sf/09-packing-sf-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2012/12/09/travel/09-packing-sf/09-packing-sf-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2012/12/09/travel/09-packing-sf/09-packing-sf-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Packing for the Slopes"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Skiing"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kardashian, Kim"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          }
+        ],
+        "pub_date": "2012-12-09T00:00:00Z",
+        "document_type": "multimedia",
+        "news_desk": "Travel",
+        "section_name": "Travel",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Ellen",
+              "rank": 1,
+              "lastname": "TIEN"
+            }
+          ],
+          "original": "By ELLEN TIEN"
+        },
+        "type_of_material": "Slideshow",
+        "_id": "513e060fcf28d04ae000209d",
+        "word_count": "11",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2014/12/07/style/kim-kardashian-joins-the-art-basel-party-circuit-briefly-.html",
+        "snippet": "The best parties manage to pitch high and low culture against each other into a decadent social spectacle.",
+        "lead_paragraph": "The best parties manage to pitch high and low culture against each other into a decadent social spectacle.",
+        "abstract": "Inside look at some of the after parties at Art Basel Miami Beach.",
+        "print_page": "8",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Kim Kardashian Joins the Art Basel Party Circuit",
+          "content_kicker": "Scene City",
+          "kicker": "Scene City | Miami Art Basel",
+          "print_headline": "Art Likes a Party"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art Basel Miami Beach"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Parties (Social)"
+          },
+          {
+            "rank": "3",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Art"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kardashian, Kim"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Miami Beach (Fla)"
+          }
+        ],
+        "pub_date": "2014-12-07T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Style",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Julia",
+              "rank": 1,
+              "lastname": "CHAPLIN"
+            }
+          ],
+          "original": "By JULIA CHAPLIN"
+        },
+        "type_of_material": "News",
+        "_id": "54822b1c38f0d8403d9cbc25",
+        "word_count": "504",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/slideshow/2014/12/05/fashion/20141205-SCENE.html",
+        "snippet": "Kim Kardashian at Paper Magazine; Aby Rosen and Samantha Boardman host a hot-ticket dinner and an after party at The Wall.",
+        "lead_paragraph": "Kim Kardashian at Paper Magazine; Aby Rosen and Samantha Boardman host a hot-ticket dinner and an after party at The Wall.",
+        "abstract": null,
+        "print_page": null,
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2014/12/05/fashion/20141205-SCENE-slide-5CHP/20141205-SCENE-slide-5CHP-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2014/12/05/fashion/20141205-SCENE-slide-5CHP/20141205-SCENE-slide-5CHP-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2014/12/05/fashion/20141205-SCENE-slide-5CHP/20141205-SCENE-slide-5CHP-articleLarge.jpg",
+            "height": 400,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2014/12/05/fashion/20141205-SCENE-slide-5CHP/20141205-SCENE-slide-5CHP-articleLarge.jpg",
+              "xlargeheight": "400"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2014/12/05/fashion/20141205-SCENE-slide-5CHP/20141205-SCENE-slide-5CHP-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2014/12/05/fashion/20141205-SCENE-slide-5CHP/20141205-SCENE-slide-5CHP-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Art Basel Parties: Thursday Night",
+          "kicker": "Scene City"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kardashian, Kim"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Parties (Social)"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Art Basel Miami Beach"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Fashion and Apparel"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "Paper (Magazine)"
+          }
+        ],
+        "pub_date": "2014-12-05T00:00:00Z",
+        "document_type": "multimedia",
+        "news_desk": "Fashion & Style",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Denny",
+              "rank": 1,
+              "lastname": "LEE"
+            }
+          ],
+          "original": "By DENNY LEE"
+        },
+        "type_of_material": "Slideshow",
+        "_id": "5482267a38f0d8403d9cbb97",
+        "word_count": "21",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2010/11/18/fashion/18KIM.html",
+        "snippet": "Her look and celebrity have made her a brand. But what, exactly, does she represent?",
+        "lead_paragraph": "Her look and celebrity have made her a brand. But what, exactly, does she represent?",
+        "abstract": null,
+        "print_page": "1",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "subtype": "xlarge",
+            "url": "images/2010/11/18/fashion/18KIM-span/Z-KIM-P1-A-articleLarge.jpg",
+            "height": 350,
+            "width": 600,
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2010/11/18/fashion/18KIM-span/Z-KIM-P1-A-articleLarge.jpg",
+              "xlargeheight": "350"
+            },
+            "type": "image"
+          },
+          {
+            "subtype": "thumbnail",
+            "url": "images/2010/11/18/fashion/18KIM-span/Z-KIM-P1-A-thumbStandard.jpg",
+            "height": 75,
+            "width": 75,
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2010/11/18/fashion/18KIM-span/Z-KIM-P1-A-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "seo": "Kim Kardashian Inc.: Her Brand Grows, and Fans Flock",
+          "main": "Kim Kardashian Inc.",
+          "sub": "Her look and celebrity have made her a brand. But what, exactly, does she represent?;",
+          "print_headline": "Kim Kardashian Inc."
+        },
+        "keywords": [
+          {
+            "value": "Kardashian, Kim",
+            "is_major": "N",
+            "rank": "1",
+            "name": "persons"
+          },
+          {
+            "value": "Fashion and Apparel",
+            "is_major": "N",
+            "rank": "2",
+            "name": "subject"
+          },
+          {
+            "value": "Jewels and Jewelry",
+            "is_major": "N",
+            "rank": "3",
+            "name": "subject"
+          }
+        ],
+        "pub_date": "2010-11-18T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "contributor": "",
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1,
+              "firstname": "Eric",
+              "lastname": "WILSON"
+            }
+          ],
+          "original": "By ERIC WILSON"
+        },
+        "type_of_material": "News",
+        "_id": "5420ba6e38f0d81f7a6007c6",
+        "word_count": "1235",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2009/07/26/fashion/26night.html",
+        "snippet": "Hanging out with Kim Kardashian at Delicatessen, on the Lower East Side, where she nibbled on fried chicken and talked about reality TV, like her own show.",
+        "lead_paragraph": "Hanging out with Kim Kardashian at Delicatessen, on the Lower East Side, where she nibbled on fried chicken and talked about reality TV, like her own show.",
+        "abstract": null,
+        "print_page": "4",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "subtype": "xlarge",
+            "url": "images/2009/07/26/fashion/26night600.1.jpg",
+            "height": 331,
+            "width": 600,
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2009/07/26/fashion/26night600.1.jpg",
+              "xlargeheight": "331"
+            },
+            "type": "image"
+          },
+          {
+            "subtype": "thumbnail",
+            "url": "images/2009/07/26/fashion/26night75.1.jpg",
+            "height": 75,
+            "width": 75,
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2009/07/26/fashion/26night75.1.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "content_kicker": "A Night Out With | Kim Kardashian",
+          "sub": "Kim Kardashian ;",
+          "print_headline": "So Young and Fabulous",
+          "kicker": "A Night Out With | Kim Kardashian",
+          "seo": "Kim Kardashian in Manhattan",
+          "main": "So Young and Fabulous"
+        },
+        "keywords": [
+          {
+            "value": "Kardashian, Kim",
+            "is_major": "N",
+            "rank": "1",
+            "name": "persons"
+          },
+          {
+            "value": "Reality Television",
+            "is_major": "N",
+            "rank": "2",
+            "name": "subject"
+          }
+        ],
+        "pub_date": "2009-07-26T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1,
+              "firstname": "Douglas",
+              "lastname": "QUENQUA"
+            }
+          ],
+          "original": "By DOUGLAS QUENQUA"
+        },
+        "type_of_material": "News",
+        "_id": "5454511938f0d839202e9eb1",
+        "word_count": "611",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2015/02/27/business/media/deal-keeps-kardashians-reality-show-on-e.html",
+        "snippet": "The NBCUniversal cable network’s deal with the Kardashian family is said to cover three years.",
+        "lead_paragraph": "The NBCUniversal cable network’s deal with the Kardashian family is said to cover three years.",
+        "abstract": "E! cable network signs deal for three more years of reality show Keeping Up With the Kardashians.",
+        "print_page": "3",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2015/02/27/business/27kardashians-web/27kardashians-web-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2015/02/27/business/27kardashians-web/27kardashians-web-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2015/02/27/business/27kardashians-web/27kardashians-web-articleLarge.jpg",
+            "height": 393,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2015/02/27/business/27kardashians-web/27kardashians-web-articleLarge.jpg",
+              "xlargeheight": "393"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2015/02/27/business/27kardashians-web/27kardashians-web-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2015/02/27/business/27kardashians-web/27kardashians-web-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "Deal Keeps ‘Kardashians’ Reality Show on E!",
+          "print_headline": "Keeping Up by Paying Out"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Television"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Reality Television"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "organizations",
+            "value": "E! Entertainment Television"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kardashian, Kim"
+          },
+          {
+            "rank": "5",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Ratings (Audience Measurement)"
+          },
+          {
+            "rank": "6",
+            "is_major": "Y",
+            "name": "creative_works",
+            "value": "Keeping Up With the Kardashians (TV Program)"
+          }
+        ],
+        "pub_date": "2015-02-27T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Business",
+        "section_name": "Business Day",
+        "subsection_name": "Media",
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Emily",
+              "rank": 1,
+              "lastname": "STEEL"
+            }
+          ],
+          "original": "By EMILY STEEL"
+        },
+        "type_of_material": "News",
+        "_id": "54ef902f38f0d85d8e6272a5",
+        "word_count": "259",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2015/04/14/travel/the-kardashians-show-support-for-armenia.html",
+        "snippet": "The Republic of Armenia has received what could be its biggest tourism boost to date: a visit from the Kardashians.",
+        "lead_paragraph": "The Republic of Armenia has received what could be its biggest tourism boost to date: a visit from the Kardashians.",
+        "abstract": null,
+        "print_page": "",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2015/04/14/travel/14armenia/14armenia-thumbWide-v3.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2015/04/14/travel/14armenia/14armenia-thumbWide-v3.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2015/04/14/travel/14armenia/14armenia-articleLarge.jpg",
+            "height": 657,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2015/04/14/travel/14armenia/14armenia-articleLarge.jpg",
+              "xlargeheight": "657"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2015/04/14/travel/14armenia/14armenia-thumbStandard-v2.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2015/04/14/travel/14armenia/14armenia-thumbStandard-v2.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "The Kardashians Show Support for Armenia",
+          "content_kicker": "In Transit",
+          "kicker": "In Transit",
+          "print_headline": "The Kardashians and the Pope Support Armenia"
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Travel and Vacations"
+          },
+          {
+            "rank": "2",
+            "is_major": "N",
+            "name": "glocations",
+            "value": "Armenia"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "War Crimes, Genocide and Crimes Against Humanity"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kardashian, Kim"
+          }
+        ],
+        "pub_date": "2015-04-14T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Travel",
+        "section_name": "Travel",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "firstname": "Rachel",
+              "middlename": "Lee",
+              "lastname": "HARRIS",
+              "rank": 1,
+              "role": "reported",
+              "organization": ""
+            }
+          ],
+          "original": "By RACHEL LEE HARRIS"
+        },
+        "type_of_material": "News",
+        "_id": "552c3b9f38f0d8273c428587",
+        "word_count": "487",
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9901E3DF173FF935A3575AC0A9649D8B63",
+        "snippet": "SCOFF all you want: Kim Kardashian floats above it all. See her strolling arm in arm with her boyfriend, Kanye West, in matching all-black outfits. See her on magazine covers -- beaming, never smoldering. See her on Twitter, getting aphoristic.   A...",
+        "lead_paragraph": "SCOFF all you want: Kim Kardashian floats above it all. See her strolling arm in arm with her boyfriend, Kanye West, in matching all-black outfits. See her on magazine covers -- beaming, never smoldering. See her on Twitter, getting aphoristic. A neurotic who subjected her life to reality television and tabloid glare, who put a whole family of narcissists and strivers and even the reluctant on her back, she is the most modern celebrity: unattainable, human, anxious. Many of her biggest moments have been failures (the sex tape, the televised speed wedding), and yet she has been remarkably resilient, building an empire from whole cloth. The truth is: no one asked for Kim Kardashian, but she's here for good nonetheless.",
+        "abstract": "Look at fashion career of Kim Kardashian, who will not go unnoticed at New York Fashion Week. Photo (M)",
+        "print_page": "14",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [],
+        "headline": {
+          "main": "Admit It: You Knew She'd Be Here"
+        },
+        "keywords": [
+          {
+            "name": "persons",
+            "value": "KARDASHIAN, KIM"
+          },
+          {
+            "name": "subject",
+            "value": "NEW YORK FASHION WEEK"
+          }
+        ],
+        "pub_date": "2012-09-06T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Style Desk",
+        "section_name": "Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "rank": 1,
+              "firstname": "Jon",
+              "lastname": "CARAMANICA"
+            }
+          ],
+          "original": "By JON CARAMANICA"
+        },
+        "type_of_material": "News",
+        "_id": "5051032b1c22dfde670c8066",
+        "word_count": 186,
+        "slideshow_credits": null
+      },
+      {
+        "web_url": "http://www.nytimes.com/2015/12/03/fashion/kim-kardashian-push-present-politics.html",
+        "snippet": "Kim Kardashian wants a million-dollar necklace as a “push present” for giving birth to her second baby. At that rate, few of us could afford families.",
+        "lead_paragraph": "Kim Kardashian wants a million-dollar necklace as a “push present” for giving birth to her second baby. At that rate, few of us could afford families.",
+        "abstract": "So-called push present, gift offered to women after giving birth, is becoming popular trend among wealthy couples.",
+        "print_page": "24",
+        "blog": [],
+        "source": "The New York Times",
+        "multimedia": [
+          {
+            "width": 190,
+            "url": "images/2015/12/04/fashion/03pushpresent1/03pushpresent1-thumbWide.jpg",
+            "height": 126,
+            "subtype": "wide",
+            "legacy": {
+              "wide": "images/2015/12/04/fashion/03pushpresent1/03pushpresent1-thumbWide.jpg",
+              "wideheight": "126",
+              "widewidth": "190"
+            },
+            "type": "image"
+          },
+          {
+            "width": 600,
+            "url": "images/2015/12/04/fashion/03pushpresent1/03pushpresent1-articleLarge.jpg",
+            "height": 416,
+            "subtype": "xlarge",
+            "legacy": {
+              "xlargewidth": "600",
+              "xlarge": "images/2015/12/04/fashion/03pushpresent1/03pushpresent1-articleLarge.jpg",
+              "xlargeheight": "416"
+            },
+            "type": "image"
+          },
+          {
+            "width": 75,
+            "url": "images/2015/12/04/fashion/03pushpresent1/03pushpresent1-thumbStandard.jpg",
+            "height": 75,
+            "subtype": "thumbnail",
+            "legacy": {
+              "thumbnailheight": "75",
+              "thumbnail": "images/2015/12/04/fashion/03pushpresent1/03pushpresent1-thumbStandard.jpg",
+              "thumbnailwidth": "75"
+            },
+            "type": "image"
+          }
+        ],
+        "headline": {
+          "main": "First Comes Baby, Then Comes Push Present? ",
+          "print_headline": "Here’s Your Baby … Where’s My Present?  "
+        },
+        "keywords": [
+          {
+            "rank": "1",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Pregnancy and Childbirth"
+          },
+          {
+            "rank": "2",
+            "is_major": "Y",
+            "name": "subject",
+            "value": "Gifts"
+          },
+          {
+            "rank": "3",
+            "is_major": "N",
+            "name": "subject",
+            "value": "Jewels and Jewelry"
+          },
+          {
+            "rank": "4",
+            "is_major": "N",
+            "name": "persons",
+            "value": "Kardashian, Kim"
+          }
+        ],
+        "pub_date": "2015-12-06T00:00:00Z",
+        "document_type": "article",
+        "news_desk": "Styles",
+        "section_name": "Fashion & Style",
+        "subsection_name": null,
+        "byline": {
+          "person": [
+            {
+              "organization": "",
+              "role": "reported",
+              "firstname": "Una",
+              "rank": 1,
+              "lastname": "LAMARCHE"
+            }
+          ],
+          "original": "By UNA LAMARCHE"
+        },
+        "type_of_material": "News",
+        "_id": "5660745438f0d80f6038b62c",
+        "word_count": "642",
+        "slideshow_credits": null
+      }
+    ]
+  },
+  "status": "OK",
+  "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}
